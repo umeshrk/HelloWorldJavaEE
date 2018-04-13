@@ -21,9 +21,9 @@ Calculator myCalc = new Calculator();
         System.out.println("fast-updated");
       }
 	
-	@Test	
+	/*@Test	
       public void testCalc() {
         assertEquals("Result", 9, myCalc.add(3,6));
-      }
+      } */
 
 }
